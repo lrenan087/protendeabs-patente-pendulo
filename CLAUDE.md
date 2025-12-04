@@ -15,7 +15,7 @@ Este repositório contém a **base documental completa** relacionada à tecnolog
 1. **Três famílias de patentes depositadas no INPI:**
    - **BR 10 2015 002142 9** (2015) - TORRE DE CONCRETO ESTRUTURAL E MÉTODO DE MONTAGEM
    - **BR 13 2015 028527 1** (2015-E2) - TORRE DE MATERIAIS ESTRUTURAIS E MÉTODO DE MONTAGEM
-   - **BR 10 2018 011457 3** (2018) - APERFEIÇOAMENTO INTRODUZIDO EM NÓ ESTRUTURAL DE COMPORTAMENTO
+   - **BR 10 2018 011457 3** (2018) - APERFEIÇOAMENTO INTRODUZIDO EM NÓ ESTRUTURAL DE COMPORTAMENTO REVERSO
 
 2. **Pareceres técnicos do INPI:**
    - Múltiplos pareceres para cada pedido de patente
