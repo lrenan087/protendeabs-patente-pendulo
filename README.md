@@ -58,7 +58,7 @@ protendeabs-patente-pendulo/
     │       ├── 2 Parecer Tecnico_ BR102018011457-3 (segundo).pdf
     │       ├── Parecer - INPI 1.pdf
     │       ├── Parecer - INPI 2.pdf
-    │       ├── ImagemDocumentoPdfController.pdf
+    │       ├── ImagemDocumentoPdfController.pdf  ← [Breve descrição do conteúdo]
     │       └── Tower structure and method of raising and lowering said.pdf
     │
     └── Conclua_com_o_Docusign_1º_Aditivo_-_CTZ_-_Pr.pdf  ← Termo Aditivo de Licenciamento
