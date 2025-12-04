@@ -312,7 +312,7 @@ A invenção refere-se a um **aperfeiçoamento** em nós estruturais de comporta
 ### O que Esta Patente NÃO Cobre
 
 #### 1. **Comportamento Dinâmico**
-- Não trata de vibr ações durante montagem
+- Não trata de vibrações durante montagem
 - Não aborda oscilações pendulares
 - **Lacuna**: Controle de estabilidade dinâmica
 
