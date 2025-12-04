@@ -713,7 +713,7 @@ Máximo 250 palavras, sintetizando: problema + solução + vantagens principais.
 - USPTO: https://www.uspto.gov/
 
 ### Legislação:
-- Lei 9.279/1996 (LPI): http://www.planalto.gov.br/ccivil_03/leis/l9279.htm
+- Lei 9.279/1996 (LPI): https://www.planalto.gov.br/ccivil_03/leis/l9279.htm
 - Instruções Normativas INPI: http://www.inpi.gov.br/legislacao-1
 
 ---
