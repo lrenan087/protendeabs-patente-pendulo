@@ -217,7 +217,7 @@ Se solicitado a preparar terreno para nova patente:
 
 ---
 
-## E) O QUE NÃO FAZER
+## E) RESTRIÇÕES ABSOLUTAS
 
 ### Restrições Absolutas
 
