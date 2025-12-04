@@ -84,7 +84,7 @@ protendeabs-patente-pendulo/
 - **Relação:** Número original listado em BR 10 2015 002142 9
 
 #### **BR 10 2018 011457 3 (2018)**
-- **Título:** APERFEIÇOAMENTO INTRODUZIDO EM NÓ ESTRUTURAL DE COMPORTAMENTO
+- **Título:** APERFEIÇOAMENTO INTRODUZIDO EM NÓ ESTRUTURAL DE COMPORTAMENTO REVERSO
 - **Depósito:** 05/06/2018
 - **Foco:** Evolução específica do conceito de nó estrutural
 - **Múltiplas versões documentadas**
