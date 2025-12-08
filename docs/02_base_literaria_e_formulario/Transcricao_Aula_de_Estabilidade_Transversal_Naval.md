@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=QdszHPmnTXE
 
 ---
 
-# ✅ **TRANSCRIÇÃO CORRIGIDA**
+# ✅ **TRANSCRIÇÃO**
 
 Olá, seja muito bem-vindo e muito bem-vinda ao Espaço Capitão aqui do
 canal Roda de Proa. No exame de Capitão Amador, a matéria de estabilidade é
