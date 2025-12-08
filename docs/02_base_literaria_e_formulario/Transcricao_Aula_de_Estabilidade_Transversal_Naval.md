@@ -228,4 +228,3 @@ propriedade.
 Desejo a você um grande abraço, bons estudos, bons ventos — e nos vemos na
 próxima aula.  
 Até lá.
-```
