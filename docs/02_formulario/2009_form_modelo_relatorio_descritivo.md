@@ -4,9 +4,8 @@
 
 ## TITULARIDADE
 
-**TITULAR:**
-
-**INVENTORES:**
+- **TITULAR:** [Nome do(s) titular(es)]
+- **INVENTORES:** [Nome do(s) inventor(es)]
 
 ---
 
