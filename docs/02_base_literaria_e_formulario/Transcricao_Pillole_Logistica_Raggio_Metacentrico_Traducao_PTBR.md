@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=6yLDlxGqzVQ
 
 ---
 
-# **📘 Transcrição Corrigida + Tradução para Português (PT-BR)**
+# 📘 Transcrição Corrigida + Tradução para Português (PT-BR)
 
 ## **📌 Título**
 
