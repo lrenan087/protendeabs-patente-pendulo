@@ -2,7 +2,7 @@
 
 # ✅ **TRANSCRIÇÃO CORRIGIDA**
 
-```markdown
+``markdown
 Olá, seja muito bem-vindo e muito bem-vinda ao Espaço Capitão aqui do
 canal Roda de Proa. No exame de Capitão Amador, a matéria de estabilidade é
 composta normalmente por quatro questões que, somadas, valem um ponto. Porém,
