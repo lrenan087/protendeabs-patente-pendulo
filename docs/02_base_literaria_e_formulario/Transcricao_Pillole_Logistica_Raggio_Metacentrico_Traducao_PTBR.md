@@ -115,7 +115,7 @@ Questo dipende se le navi hanno murate *svasate* o *rientrate*.
 Parleremo invece di **prometa centro**, indicato con la lettera **H**:
 la proiezione sulla verticale del baricentro del rispettivo metacentro per grandi inclinazioni.
 
-Essi sono detti **falsi metacentri**.
+Esso è detto **falso metacentro**.
 
 Allo stesso modo possiamo studiare l’equilibrio confrontando il punto **H** — il prometa centro — con il rispettivo baricentro.
 
