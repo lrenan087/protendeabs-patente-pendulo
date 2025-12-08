@@ -73,7 +73,7 @@ E assim definimos:
 
 # **📗 Texto em Italiano (transcrição corrigida)**
 
-Pillole di logistica — definizione di raggio metacentrico trasversale, evoluta metacentrica e di prometa centro.
+Pillole di logistica — definizione di raggio metacentrico trasversale, evoluta metacentrica e di prometacentro.
 
 Consideriamo la nostra solita sezione trasversale di una nave e la incliniamo.
 A sua volta parleremo di **raggio metacentrico trasversale**, indicato con le lettere **BM**.
