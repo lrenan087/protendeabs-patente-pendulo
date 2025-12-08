@@ -65,7 +65,7 @@ Deve-se notar que, em relação ao item II - a invenção, a descrição detalha
 
 ## REIVINDICAÇÕES
 
-As reivindicações devem conter os aspectos da invenção que a caracterizam como tal, aspectos estes que devem ser apresentados após o termo "caracterizado por" em cada item. É importante o cuidado para não tornar as reivindicações generalizadas demais (portanto vagas) ou, ao contrário, específicas demais (portanto muito limitadas).
+As reivindicações devem conter os aspectos da invenção que a caracterizam como tal, aspectos estes que devem ser apresentados após o termo `caracterizado por` em cada item. É importante o cuidado para não tornar as reivindicações generalizadas demais (portanto vagas) ou, ao contrário, específicas demais (portanto muito limitadas).
 
 ---
 
