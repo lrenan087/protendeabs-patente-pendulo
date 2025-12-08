@@ -94,7 +94,7 @@ O **sistema de estabilização e içamento** compreende:
 
 2.  **Subsistema de Içamento (Superior)**: Compreende dispositivos de elevação ancorados no topo do elemento fixo (ou em estrutura provisória de montagem). Estes conectam-se ao topo ou corpo do elemento móvel. Sua função é prover a força de elevação ($F_{ic}$) necessária para vencer a soma do peso da antena ($P_{ant}$) mais a força de retesamento ($F_{ret}$): $F_{ic} > P_{ant} + F_{ret}$.
 
-**Dinâmica de Operação e Estabilidade:**
+### Dinâmica de Operação e Estabilidade
 
 Durante o içamento, o sistema de controle gerencia os dois subsistemas. A força de retesamento $F_{ret}$ é fundamental para a estabilidade. Sem ela, o ponto de aplicação da força peso ($P_{ant}$) estaria no CG geométrico da antena, frequentemente acima do ponto de pega (instável). Com a aplicação de $F_{ret}$ na base, a resultante das forças verticais descendentes ($R = P_{ant} + F_{ret}$) tem seu ponto de ação deslocado para baixo.
 
