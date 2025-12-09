@@ -722,7 +722,7 @@ b) aplicar, através dos cabos inferiores conectados aos meios de retesamento, u
 
 c) elevar a antena através dos cabos superiores conectados aos meios de içamento, enquanto os cabos inferiores mantêm a aplicação da força descendente substancialmente constante, deslocando o baricentro operacional do sistema para uma posição abaixo do ponto de pega da antena, realizando a transformação de pêndulo invertido em pêndulo estável.
 
-**2.** MÉTODO, de acordo com a reivindicação 1, caracterizado pelo fato de que a força descendente substancialmente constante aplicada pelos cabos inferiores, somada vetorialmente ao peso próprio da antena, resulta em uma força equivalente cujo ponto de aplicação, denominado baricentro operacional, situa-se abaixo da base da antena, de forma que qualquer perturbação que cause inclinação da antena gera momento restaurador tendente a retorná-la à posição vertical.
+situa-se entre o centro de gravidade real e a base da antena
 
 **3.** MÉTODO, de acordo com a reivindicação 1 ou 2, caracterizado por compreender controle de carga duplo onde a força nos cabos inferiores é mantida substancialmente constante ou dentro de uma faixa predeterminada enquanto o comprimento dos cabos inferiores é ajustado para acompanhar o deslocamento vertical da antena, coordenadamente com o recolhimento dos cabos superiores.
 
