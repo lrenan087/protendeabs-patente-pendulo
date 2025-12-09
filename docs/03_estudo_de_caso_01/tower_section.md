@@ -1,6 +1,5 @@
 ## 📐 1. Fórmulas e definições para contexto
 
-````md
 ## 1. Definições e Fórmulas de Referência
 
 Este documento consolida os dados fornecidos para as seções verticais da torre, agrupando-os por `tower_section`.
