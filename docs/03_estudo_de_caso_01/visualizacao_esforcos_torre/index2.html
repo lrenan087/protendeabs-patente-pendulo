@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparação Forças vs Momentos - Torre Eólica</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="data.js"></script>
+</head>
+
+<body>
+
+    <div class="container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <h2>Controles</h2>
+
+            <div class="control-group">
+                <label>Grandezas:</label>
+
+                <!-- Container for Moments -->
+                <div class="category-header">Momentos (kNm)</div>
+                <div id="momentsCheckboxes" class="checkbox-group">
+                    <!-- Populated by JS -->
+                </div>
+
+                <!-- Container for Forces -->
+                <div class="category-header" style="margin-top: 15px;">Forças (kN)</div>
+                <div id="forcesCheckboxes" class="checkbox-group">
+                    <!-- Populated by JS -->
+                </div>
+
+                <div class="button-group">
+                    <button id="btnSelectAll">Selecionar Tudo</button>
+                    <button id="btnClearAll">Limpar Tudo</button>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label>Cenários:</label>
+                <div class="checkbox-group">
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="case10_2" checked>
+                        <label for="case10_2">Caso 10⁻²</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="case10_4" checked>
+                        <label for="case10_4">Caso 10⁻⁴</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="instructions">
+                <h3>Como usar:</h3>
+                <p>1. Selecione variáveis de Momentos e/ou Forças.</p>
+                <p>2. O gráfico exibirá dois eixos Y para facilitar a comparação.</p>
+                <p>3. Marque as variáveis para ver a análise técnica.</p>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <div id="plot"></div>
+
+            <!-- Analysis Section -->
+            <div id="analysisContainer" class="analysis-container">
+                <h3>Análise Técnica Automática</h3>
+                <div id="analysisContent">
+                    <!-- Dynamic analysis text will appear here -->
+                    <p class="placeholder-text">Selecione uma grandeza para visualizar a dedução técnica.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script2.js"></script>
+</body>
+
+</html>

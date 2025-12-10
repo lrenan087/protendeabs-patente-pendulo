@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualização de Esforços - Torre Eólica</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="data.js"></script>
+</head>
+
+<body>
+
+    <div class="container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <h2>Controles</h2>
+
+            <div class="control-group">
+                <label for="typeSelect">Tipo de Grandeza:</label>
+                <select id="typeSelect">
+                    <option value="moments">Momentos (kNm)</option>
+                    <option value="forces">Forças (kN)</option>
+                </select>
+            </div>
+
+            <div class="control-group">
+                <label>Grandezas:</label>
+                <div id="variableCheckboxes" class="checkbox-group">
+                    <!-- Populated by JS -->
+                </div>
+                <div class="button-group">
+                    <button id="btnSelectAll">Selecionar Tudo</button>
+                    <button id="btnClearAll">Limpar Tudo</button>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label>Cenários:</label>
+                <div class="checkbox-group">
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="case10_2" checked>
+                        <label for="case10_2">Caso 10⁻²</label>
+                    </div>
+                    <div class="checkbox-item">
+                        <input type="checkbox" id="case10_4" checked>
+                        <label for="case10_4">Caso 10⁻⁴</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="instructions">
+                <h3>Como usar:</h3>
+                <p>1. Selecione o tipo de esforço.</p>
+                <p>2. Marque as variáveis para ver o gráfico e a análise técnica.</p>
+                <p>3. Compare os cenários 10⁻² e 10⁻⁴.</p>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <div id="plot"></div>
+
+            <!-- Analysis Section -->
+            <div id="analysisContainer" class="analysis-container">
+                <h3>Análise Técnica Automática</h3>
+                <div id="analysisContent">
+                    <!-- Dynamic analysis text will appear here -->
+                    <p class="placeholder-text">Selecione uma grandeza para visualizar a dedução técnica.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
