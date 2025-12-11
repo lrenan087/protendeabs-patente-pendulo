@@ -6,17 +6,18 @@
 
 ## A) PROPÓSITO DO REPOSITÓRIO
 
-Este repositório reúne e organiza toda a **base documental** relacionada à tecnologia **Protende** para construção de torres eólicas de concreto estrutural.
+Este repositório reúne e organiza toda a **base documental** relacionada à tecnologia **Protende** para construção de torres eólicas de concreto estrutural, incluindo o desenvolvimento de nova patente relacionada ao **método de içamento controlado com estabilidade de pêndulo invertido**.
 
 ### Objetivos Principais
 
-- **Reunir** documentação completa sobre as patentes existentes
+- **Reunir** documentação completa sobre as patentes existentes (três famílias)
 - **Organizar** pareceres técnicos, jurídicos e administrativos do INPI
 - **Facilitar** análise técnica, jurídica e contratual comparativa
 - **Servir** como base para pesquisa e compreensão histórica da tecnologia
-- **Preparar** fundação para futuro desenvolvimento de nova patente
+- **Documentar** o desenvolvimento da nova patente de método de içamento controlado
+- **Consolidar** base literária e formulários técnicos de referência
 
-> **IMPORTANTE:** Este repositório **NÃO contém** a nova patente. Ele documenta o passado e o presente, servindo como base preparatória para desenvolvimentos futuros.
+> **NOTA:** O repositório agora contém **rascunhos em desenvolvimento** da nova patente na pasta `docs/01_nova_patente/`, além de toda a documentação histórica das patentes existentes.
 
 ---
 
@@ -31,37 +32,52 @@ protendeabs-patente-pendulo/
 ├── CLAUDE.md                          ← Instruções para agentes de IA
 │
 └── docs/
+    │
+    ├── contextualizacao_geral_tecnica_juridica_e_contratual.md  ← DOCUMENTO MESTRE
+    ├── comentarios_tecnicos_cristiano.md                         ← Direcionamento técnico
+    ├── Conclua_com_o_Docusign_1º_Aditivo_-_CTZ_-_Pr.pdf          ← Termo Aditivo
+    │
     ├── 00_patentes_base/              ← Três famílias de patentes
     │   │
-    │   ├── BR 10 2015 002142 9/       ← Patente 2015 (Pedido Original)
+    │   ├── BR 10 2015 002142 9/       ← Patente 2015 (Pedido Original - Em exame)
     │   │   ├── TORRE DE CONCRETO ESTRUTURAL E MÉTODO DE MONTAGEM.pdf
     │   │   ├── informacoes_inpi_BR 10 2015 002142 9.md
-    │   │   ├── Parecer - INPI - 1.pdf
-    │   │   ├── Parecer - INPI - 2 [Transferência].pdf
-    │   │   ├── Parecer - INPI - 3.pdf
-    │   │   └── Conclua_com_o_Docusign_1º_Aditivo_-_CTZ_-_Pr.pdf
+    │   │   ├── Especificacao_Completa_Torre_Concreto_Estrutural.md
+    │   │   ├── Relatorio_Busca_e_Exigencia_2021.md
+    │   │   ├── Parecer_INPI_*.md (3 pareceres)
+    │   │   └── [PDFs de pareceres]
     │   │
-    │   ├── BR 13 2015 028527 1/       ← Patente 2015-E2 (Divisional/Complementar)
+    │   ├── BR 13 2015 028527 1/       ← Patente 2015-E2 (Divisional)
     │   │   ├── BR 132015028527-1 E2 - TORRE DE MATERIAIS ESTRUTURAIS E MÉTODO DE MONTAGEM.pdf
     │   │   ├── informacoes_inpi_BR 13 2015 028527 1.md
-    │   │   ├── Parecer - INPI 1.pdf
-    │   │   ├── Parecer - INPI 2.pdf
-    │   │   ├── Parecer - INPI 3.pdf
-    │   │   └── Parecer - INPI 4.pdf
+    │   │   ├── Especificacao_Completa_Torre_Materiais_Estruturais.md
+    │   │   ├── Pareceres_INPI_Consolidados.md
+    │   │   └── [PDFs de pareceres - 4 pareceres]
     │   │
-    │   └── BR 10 2018 011457 3/       ← Patente 2018 (Aperfeiçoamento)
+    │   └── BR 10 2018 011457 3/       ← Patente 2018 (CONCEDIDA em 17/09/2024)
     │       ├── BR 102018011457-3 A2 - APERFEIÇOAMENTO INTRODUZIDO EM NÓ ESTRUTURAL.pdf
     │       ├── informacoes_inpi_BR 10 2018 011457 3.md
-    │       ├── APERFEIÇOAMENTO INTRODUZIDO EM NÓ ESTRUTURAL DE COMPORTAMENTO.pdf
-    │       ├── APERFEIÇOAMENTO INTRODUZIDO EM NÓ ESTRUTURAL DE COMPORTAMENTO 2.pdf
-    │       ├── 1 Parecer Tecnico_ BR102018011457-3 (primeiro).pdf
-    │       ├── 2 Parecer Tecnico_ BR102018011457-3 (segundo).pdf
-    │       ├── Parecer - INPI 1.pdf
-    │       ├── Parecer - INPI 2.pdf
-    │       ├── ImagemDocumentoPdfController.pdf  ← [Breve descrição do conteúdo]
-    │       └── Tower structure and method of raising and lowering said.pdf
+    │       ├── Especificacao_Completa_Aperfeicoamento_No.md
+    │       ├── Pareceres_Tecnicos_Consolidados.md
+    │       ├── Tower structure and method of raising and lowering said.pdf  ← Versão inglês
+    │       └── [PDFs de pareceres técnicos]
     │
-    └── Conclua_com_o_Docusign_1º_Aditivo_-_CTZ_-_Pr.pdf  ← Termo Aditivo de Licenciamento
+    ├── 01_nova_patente/               ← NOVA PATENTE EM DESENVOLVIMENTO
+    │   ├── patente_metodo_icamento_controlado.md           ← Versão 1
+    │   ├── patente_metodo_icamento_controlado_ver_2.md     ← Versão 2
+    │   ├── patente_metodo_icamento_controlado_ver_3.md     ← Versão 3 (mais completa)
+    │   ├── patente_metodo_icamento_controlado_ver_3_AntiG.md  ← Variação AntiGravity
+    │   ├── rascunho_patente_metodo_icamento_controlado.md     ← Rascunho extenso
+    │   └── rascunho_patente_metodo_icamento_controlado_antigravity.md
+    │
+    ├── 02_base_literaria_e_formulario/  ← REFERÊNCIAS TÉCNICAS
+    │   ├── 2009_form_modelo_relatorio_descritivo.md
+    │   ├── Transcricao_Aula_de_Estabilidade_Transversal_Naval.md
+    │   ├── Transcricao_Pillole_Logistica_Raggio_Metacentrico_Traducao_PTBR.md
+    │   └── ranscricao_Video_Estabilidade_Empuxo_Centro_de_Gravidade_Metacentro_PTBR.md
+    │
+    └── 03_estudo_de_caso_01/          ← ESTUDOS TÉCNICOS APLICADOS
+        └── tower_section.md           ← Definições de esforços em torres
 ```
 
 ---
@@ -73,21 +89,23 @@ protendeabs-patente-pendulo/
 #### **BR 10 2015 002142 9 (2015)**
 - **Título:** TORRE DE CONCRETO ESTRUTURAL E MÉTODO DE MONTAGEM
 - **Depósito:** 30/01/2015
-- **Status:** Em exame (não concedida até 02/12/2025)
+- **Status:** Em exame
 - **Conceito-chave:** Nós duplos de comportamento reverso + montagem telescópica
 - **Depositante:** PROTENDE SISTEMAS E MÉTODOS DE CONSTRUÇÕES LTDA.
 
 #### **BR 13 2015 028527 1 (2015-E2)**
 - **Título:** TORRE DE MATERIAIS ESTRUTURAIS E MÉTODO DE MONTAGEM
 - **Depósito:** 13/11/2015
-- **Status:** Variante ou complemento da patente 2015
+- **Status:** Divisional/complemento da patente 2015
 - **Relação:** Número original listado em BR 10 2015 002142 9
 
-#### **BR 10 2018 011457 3 (2018)**
+#### **BR 10 2018 011457 3 B1 (2018)** ✓ CONCEDIDA
 - **Título:** APERFEIÇOAMENTO INTRODUZIDO EM NÓ ESTRUTURAL DE COMPORTAMENTO REVERSO
 - **Depósito:** 05/06/2018
+- **Concessão:** 17/09/2024
+- **Validade:** Até 06/06/2038
 - **Foco:** Evolução específica do conceito de nó estrutural
-- **Múltiplas versões documentadas**
+- **Documentação:** Inclui versão em inglês ("Tower structure and method...")
 
 ### 2. Pareceres Técnicos do INPI
 
@@ -116,6 +134,45 @@ Cada pasta de patente contém:
 - Informações estruturadas extraídas dos PDFs originais
 - Formato legível e processável por humanos e IAs
 - **Fonte primária recomendada** para análise técnica
+
+### 6. Documentos Mestres
+
+#### `contextualizacao_geral_tecnica_juridica_e_contratual.md`
+- **Propósito:** Consolidação de toda análise técnica, jurídica e contratual
+- **Conteúdo:** Visão geral do portfólio, linha do tempo (2015-2024), síntese técnica
+- **Ponto de entrada único** para compreensão global do projeto
+
+#### `comentarios_tecnicos_cristiano.md`
+- **Propósito:** Direcionamento técnico do corpo técnico
+- **Autor:** Cristiano (Diretor do Corpo Técnico)
+- **Conteúdo:** Descrição do problema do pêndulo invertido, sistema de cabos e strand jacks
+
+### 7. Nova Patente em Desenvolvimento
+
+A pasta `docs/01_nova_patente/` contém rascunhos do **Método de Içamento Controlado**:
+
+| Arquivo | Descrição |
+|---------|-----------|
+| `patente_metodo_icamento_controlado.md` | Versão 1 inicial |
+| `patente_metodo_icamento_controlado_ver_2.md` | Versão 2 aprimorada |
+| `patente_metodo_icamento_controlado_ver_3.md` | **Versão 3 - mais completa** |
+| `patente_metodo_icamento_controlado_ver_3_AntiG.md` | Variação "AntiGravity" |
+| `rascunho_patente_metodo_icamento_controlado.md` | Rascunho extenso |
+
+**Conceito central:** Sistema de içamento telescópico com controle de estabilidade de pêndulo invertido usando cabos tensionados e strand-jacks.
+
+### 8. Base Literária e Formulários
+
+A pasta `docs/02_base_literaria_e_formulario/` contém:
+- **Modelo de relatório descritivo** (formato INPI 2009)
+- **Transcrições técnicas** sobre estabilidade transversal naval
+- **Conceitos de raio metacêntrico** aplicados à estabilidade de estruturas
+
+### 9. Estudos de Caso
+
+A pasta `docs/03_estudo_de_caso_01/` contém:
+- **`tower_section.md`** - Definições técnicas de esforços em torres (Mx, My, Mz, Fx, Fy, Fz)
+- Fórmulas para cálculo de momentos e cisalhamentos
 
 ---
 
@@ -202,18 +259,28 @@ Se você é um agente de IA trabalhando neste repositório:
 
 ---
 
-## G) OBJETIVO FUTURO
+## G) NOVA PATENTE EM DESENVOLVIMENTO
 
-### Nova Patente
+### Método de Içamento Controlado com Estabilidade de Pêndulo Invertido
 
-Uma **nova patente será redigida posteriormente**, após:
+A nova patente em desenvolvimento foca no **problema do pêndulo invertido** durante o içamento telescópico de segmentos de torre:
 
-- Análise completa dos documentos existentes
-- Identificação de elementos técnicos a serem protegidos
-- Definição de escopo e estratégia de PI
-- Instruções específicas sobre direção técnica
+#### Problema Técnico
+- Durante o içamento de segmentos de ~80 toneladas
+- A estrutura comporta-se como pêndulo invertido (instável)
+- Necessário sistema de controle de estabilidade
 
-Este repositório fornece a **fundação documental** necessária para esse processo futuro.
+#### Solução Proposta
+- Sistema de cabos tensionados (forças de retesamento ~100 toneladas)
+- Uso de strand-jacks para controle preciso
+- Estabilização baseada em princípios de raio metacêntrico
+
+#### Status Atual
+- **Versão 3** do documento de patente em desenvolvimento
+- Variação "AntiGravity" em elaboração
+- Rascunhos extensos disponíveis para revisão
+
+Este repositório fornece a **fundação documental** necessária para a finalização da nova patente.
 
 ---
 
@@ -286,7 +353,8 @@ Entre em contato com os responsáveis pela Protende diretamente.
 
 ---
 
-**Versão:** 1.0
-**Data:** 2025-12-04
+**Versão:** 2.0
+**Data:** 2025-12-10
 **Repositório:** protendeabs-patente-pendulo
-**Finalidade:** Documentação e análise preparatória
+**Finalidade:** Documentação, análise e desenvolvimento de nova patente
+**Última atualização:** Inclusão de nova patente em desenvolvimento e estrutura expandida

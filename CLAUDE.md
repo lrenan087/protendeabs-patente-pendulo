@@ -36,14 +36,33 @@ Este repositório contém a **base documental completa** relacionada à tecnolog
    - Estes arquivos foram criados a partir da interpretação estruturada dos PDFs originais
    - **São a fonte primária de informação técnica** para qualquer IA
 
+6. **Nova patente em desenvolvimento:**
+   - Pasta `docs/01_nova_patente/` com versões iterativas
+   - Método de içamento controlado com estabilidade de pêndulo invertido
+   - Versões 1, 2, 3 e variação "AntiGravity"
+
+7. **Base literária e formulários:**
+   - Pasta `docs/02_base_literaria_e_formulario/`
+   - Transcrições técnicas sobre estabilidade naval e raio metacêntrico
+   - Modelo de relatório descritivo (INPI 2009)
+
+8. **Estudos de caso:**
+   - Pasta `docs/03_estudo_de_caso_01/`
+   - Cálculos técnicos de esforços em torres
+
+9. **Documentos mestres:**
+   - `docs/contextualizacao_geral_tecnica_juridica_e_contratual.md` → Consolidação completa
+   - `docs/comentarios_tecnicos_cristiano.md` → Direcionamento técnico
+
 ### Objetivo Fundamental
 
-**MAPEAR E COMPREENDER O PASSADO E O PRESENTE.**
+**MAPEAR, COMPREENDER E DESENVOLVER.**
 
-Este repositório **NÃO contém** a nova patente. Ele serve como:
-- Base documental histórica
-- Ferramenta de análise comparativa
-- Preparação para futura redação de nova patente (após instruções humanas específicas)
+Este repositório serve como:
+- Base documental histórica das três patentes existentes
+- Ferramenta de análise comparativa técnica e jurídica
+- **Ambiente de desenvolvimento** da nova patente de método de içamento controlado
+- Consolidação de base literária técnica
 
 ---
 
@@ -54,18 +73,23 @@ Este repositório **NÃO contém** a nova patente. Ele serve como:
 Ao iniciar qualquer tarefa neste repositório, **SEMPRE** siga esta ordem:
 
 1. **Primeiro:** Leia este arquivo (`CLAUDE.md`)
-2. **Segundo:** Leia `docs/contextualizacao_geral_tecnica_juridica_e_contratual.md` (quando existir)
-3. **Terceiro:** Leia os arquivos `.md` das patentes relevantes (`informacoes_inpi_*.md`)
-4. **Somente então:** Analise os PDFs originais se necessário
+2. **Segundo:** Leia `docs/contextualizacao_geral_tecnica_juridica_e_contratual.md`
+3. **Terceiro:** Leia `docs/comentarios_tecnicos_cristiano.md` (direcionamento técnico)
+4. **Quarto:** Leia os arquivos `.md` das patentes relevantes (`informacoes_inpi_*.md`)
+5. **Para nova patente:** Consulte `docs/01_nova_patente/patente_metodo_icamento_controlado_ver_3.md`
+6. **Somente então:** Analise os PDFs originais se necessário
 
 ### 2. Hierarquia de Fontes de Informação
 
 **ORDEM DE PRIORIDADE:**
 
-1. **Arquivos `.md` estruturados** → Fonte primária de verdade
-2. **PDFs das patentes** → Fonte secundária (considere ilegíveis ou de difícil processamento)
-3. **Pareceres do INPI** → Contexto técnico-jurídico adicional
-4. **Termo Aditivo** → Contexto contratual (único documento contratual disponível)
+1. **Documentos mestres** → `contextualizacao_geral_*.md` e `comentarios_tecnicos_*.md`
+2. **Arquivos `.md` estruturados** → Fonte primária de verdade para cada patente
+3. **Nova patente (versão 3)** → `patente_metodo_icamento_controlado_ver_3.md`
+4. **PDFs das patentes** → Fonte secundária (considere ilegíveis ou de difícil processamento)
+5. **Pareceres do INPI** → Contexto técnico-jurídico adicional
+6. **Base literária** → `docs/02_base_literaria_e_formulario/` para referências técnicas
+7. **Termo Aditivo** → Contexto contratual (único documento contratual disponível)
 
 ### 3. Regras de Interpretação Documental
 
@@ -120,24 +144,30 @@ Você deve ser:
    - Se algo não está documentado, diga explicitamente: "Informação não disponível nos documentos"
 
 4. **Consciente do contexto temporal:**
-   - Entenda que há três momentos temporais:
+   - Entenda que há quatro momentos temporais:
      - **2015:** Primeiras patentes (BR 10 2015 002142 9 e BR 13 2015 028527 1)
      - **2018:** Aperfeiçoamento (BR 10 2018 011457 3)
-     - **Futuro:** Nova patente a ser redigida posteriormente
-   - **Nunca misture** análise do passado com propostas para o futuro
+     - **2024:** Concessão da patente BR 10 2018 011457 3 B1 (17/09/2024)
+     - **Presente:** Nova patente em desenvolvimento (método de içamento controlado)
+   - **Diferencie** análise histórica de trabalho ativo na nova patente
 
 ### O Que NÃO Fazer
 
 **PROIBIDO:**
 
-1. **Redigir reivindicações de nova patente** até que seja explicitamente solicitado
-2. **Inventar** contrato original (apenas o aditivo existe)
-3. **Presumir** dados inexistentes sobre:
+1. **Inventar** contrato original (apenas o aditivo existe)
+2. **Presumir** dados inexistentes sobre:
    - Titularidade original
    - Valores contratuais
    - Acordos anteriores ao aditivo
-4. **Generalizar** conclusões além dos documentos disponíveis
-5. **Usar informação externa** sem avisar que é externa ao repositório
+3. **Generalizar** conclusões além dos documentos disponíveis
+4. **Usar informação externa** sem avisar que é externa ao repositório
+5. **Misturar** análise das patentes históricas com o desenvolvimento da nova patente
+
+**PERMITIDO (com instrução):**
+- Trabalhar ativamente nos documentos da pasta `docs/01_nova_patente/`
+- Aprimorar rascunhos da nova patente quando solicitado
+- Consultar base literária para fundamentação técnica
 
 ---
 
@@ -248,25 +278,29 @@ Se solicitado a preparar terreno para nova patente:
 
 ---
 
-## F) OBJETIVO FINAL
+## F) OBJETIVO ATUAL
 
-### Preparação para Nova Patente
+### Desenvolvimento da Nova Patente
 
 Este repositório existe para:
 
-1. **Documentar completamente** as patentes anteriores
+1. **Documentar completamente** as patentes anteriores (três famílias)
 2. **Facilitar análise técnica** profunda e comparativa
-3. **Fornecer base sólida** para decisões futuras
-4. **Preparar o terreno** para redação de nova patente
+3. **Desenvolver ativamente** a nova patente de método de içamento controlado
+4. **Consolidar base técnica** com literatura de estabilidade e raio metacêntrico
 
-### Momento Futuro
+### Status da Nova Patente
 
-**A nova patente será redigida posteriormente**, após:
-- Análise completa dos documentos existentes
-- Instruções humanas específicas sobre direção técnica
-- Definição clara de escopo e reivindicações desejadas
+**Método de Içamento Controlado com Estabilidade de Pêndulo Invertido:**
+- Versão 3 disponível em `docs/01_nova_patente/patente_metodo_icamento_controlado_ver_3.md`
+- Variação "AntiGravity" em elaboração
+- Fundamentação técnica em `docs/02_base_literaria_e_formulario/`
 
-**Até lá:** Sua função é **organizar, analisar e compreender** — não criar.
+### Patente Concedida
+
+**BR 10 2018 011457 3 B1** — Concedida em 17/09/2024, válida até 06/06/2038.
+
+**Sua função:** Organizar, analisar, compreender e **contribuir ativamente** quando solicitado.
 
 ---
 
@@ -282,6 +316,12 @@ Ao operar neste repositório, lembre-se sempre:
 
 ---
 
-**Versão:** 1.0
-**Data:** 2025-12-04
+**Versão:** 2.0
+**Data:** 2025-12-10
 **Destinatário:** Agentes de IA operando no repositório protendeabs-patente-pendulo
+**Changelog v2.0:**
+- Adicionada estrutura expandida (novas pastas 01, 02, 03)
+- Incluída documentação sobre nova patente em desenvolvimento
+- Atualizado status de concessão da patente BR 10 2018 011457 3 B1
+- Revisada hierarquia de fontes de informação
+- Adicionados documentos mestres à sequência de leitura
